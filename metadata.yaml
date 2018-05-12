@@ -1,0 +1,44 @@
+_repo: -Swingin-Round-the-Cirkle.---13-His-Letters-To-The-Public-Press-During-The-Year-1866._17228
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nast, Thomas
+    alias: Nast, Thos. (Thomas)
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '7238'
+    url: http://www.gutenberg.org/2009/agents/7238
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nast
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Locke, David Ross
+    aliases:
+    - Locke, D. R. (David Ross)
+    - Nasby, Petroleum V.
+    - Locke, David R.
+    birthdate: 1833
+    deathdate: 1888
+    gutenberg_agent_id: '7237'
+    url: http://www.gutenberg.org/2009/agents/7237
+    wikipedia: http://en.wikipedia.org/wiki/David_Ross_Locke
+description: Cover -- Contents.
+gutenberg_issued: '2005-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17228'
+  lccn: 08001248
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Campaign literature -- Republican'
+- !lcc 'PN'
+- !lcsh 'United States -- Politics and government -- 1865-1869 -- Humor'
+title: "\"Swingin Round the Cirkle.\"\r\nHis Ideas Of Men, Politics, And Things, As\
+  \ Set Forth In\r\nHis Letters To The Public Press, During The Year 1866."
+url: http://www.gutenberg.org/ebooks/17228
