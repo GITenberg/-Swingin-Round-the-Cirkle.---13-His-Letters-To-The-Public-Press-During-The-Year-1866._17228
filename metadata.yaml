@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7237
     wikipedia: http://en.wikipedia.org/wiki/David_Ross_Locke
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17228#-Swingin-Round-the-Cirkle.---13-His-Letters-To-The-Public-Press-During-The-Year-1866.
 gutenberg_issued: '2005-12-05'
 gutenberg_type: Text
 identifiers:
